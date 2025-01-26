@@ -13,8 +13,8 @@
 ## installation
 
 ```bash 
-  git clone 
-  npm i
+  git clone https://github.com/asheshgupta121git/next_protfolio.git
+  npm install
   npm run dev
 ```
 
